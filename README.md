@@ -2,7 +2,7 @@
 
 Food delivery website similar to Seamless/Grubhub/Deliveroo. State handled with Context. Content managed via Strapi and payments via Stripe.
 
-[Demo](https://jsnspr-react-next-strapi-stripe-food-delivery.herokuapp.com)
+[Demo](https://jsnspr-react-food-delivery.herokuapp.com/)
 
 This is not set up as a fully built out eccommerce site. There is no communication with the example restaurants used. 
 
